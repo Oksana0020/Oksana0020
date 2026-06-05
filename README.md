@@ -142,9 +142,14 @@ Turn-based strategy game featuring an AI opponent using Minimax search, heuristi
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oksana0020&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oksana0020&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oksana0020&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oksana0020&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
